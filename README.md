@@ -94,6 +94,12 @@ python3 gpu_test_workflows.py
 
 </details>
 
+---
+## Demo
+
+![Demo](custom_codecarbon.gif)
+
+
 
 ---
 ### About Calculation → I use the GPU emission Calculation in Same formula!
