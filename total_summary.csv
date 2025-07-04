@@ -1,0 +1,2 @@
+gpu_energy_kwh,cpu_ram_co2_kg,gpu_co2_kg,total_co2_kg,gpu_count,gpu_name
+0.017853055555555553,1.8712180655099766e-05,0.008926527777777776,0.008945239958432875,1,NVIDIA Jetson AGX Xavier GPU
